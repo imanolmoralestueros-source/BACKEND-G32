@@ -11,7 +11,8 @@
 ".py" es la extensión de los archivos Python
 
 
-'py es código'
+*py es código*
+
 
 Más información:
 https://www.markdownguide.org/cheat-sheet/
